@@ -1,6 +1,6 @@
 # 📚 Online Bookstore SQL Project – Skillcourse by Satish Dhawale
 
-This project is a part of the SQL Learning Series provided by [Satish Dhawale](https://www.youtube.com/@SatishDhawale) through Skillcourse on YouTube. It helped me apply real-world SQL concepts using a structured dataset of an online bookstore.
+This project is a part of the SQL Learning Series provided by Satish Dhawale([https://www.youtube.com/@SatishDhawale](https://www.youtube.com/watch?v=sxgAb6FGTBE&t=5544s)) through Skillcourse on YouTube. It helped me apply real-world SQL concepts using a structured dataset of an online bookstore.
 
 ---
 
